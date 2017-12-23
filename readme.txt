@@ -1,10 +1,3 @@
-Team name : InsertWinningTeamName
-
-We have submitted implementations of all 3 types of methods.
-We have Naive Bayes as a generative method, K-Nearest Neighbours as an instance-based method and Logistic Regression & SVM as discriminative methods.
-
-Following are the instructions on how to run all the files submitted:
-
 Ensure that train.mat is in the same folder as all the files being run.
 
 Logistic Regression :
